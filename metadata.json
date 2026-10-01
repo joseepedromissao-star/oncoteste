@@ -1,0 +1,6 @@
+{
+  "name": "OncoFluxo & CRM - Jornada de Atendimento e Recepção",
+  "description": "App interativo com fluxograma completo de atendimento ambulatorial/unidade móvel oncológica, validação de regras de recepção (OCIs, CBO, vinculações) e automação da jornada do paciente integrada com CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
